@@ -65,7 +65,7 @@ var authConfig = {
 };
 
 var themeOptions = {
-  cdn: "https://cdn.jsdelivr.net/gh/hackhyu/go2index",
+  cdn: "https://fastly.jsdelivr.net/gh/hackhyu/go2index",
   // 主题版本号
   version: "2.0.8.5",
   //可选默认系统语言:en/zh-chs/zh-cht
